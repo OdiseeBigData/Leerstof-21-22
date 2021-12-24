@@ -2,8 +2,8 @@
 
 ## Setup
 
-* Download the ubuntu image containing the hadoop setup.
+* Download the ubuntu virtual machine containing the hadoop setup.
 * Administrator account = bigdata
-* Administrator password = bigdata123
+* Administrator password = bigdata
 
-Merk op: Er is een extra user aanwezig die gelinkt is aan de hadoop applicatie met username hadoop.
+Importeer deze file in de Oracle Virtual Box Applicatie om de virtuele machine te configureren en 
